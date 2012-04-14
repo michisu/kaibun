@@ -1,0 +1,8 @@
+kaibun (circular letter) tools.
+
+requirements
+
+ * mecab
+ * mecab-python
+ * ipadic
+ * pytrie
