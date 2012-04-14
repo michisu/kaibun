@@ -1,8 +1,25 @@
+kaibun
+======
+
 kaibun (circular letter) tools.
 
-requirements
+Author
+------
 
+ * Michisu, Toshikazu<michisu@marici.co.jp>
+
+Requirements
+------------
+
+ * Python 2.7
  * mecab
  * mecab-python
- * ipadic
+ * ipadic (source)
  * pytrie
+
+Usage
+-----
+
+```
+python kaibun.py <ipadic-source-dir>
+```
